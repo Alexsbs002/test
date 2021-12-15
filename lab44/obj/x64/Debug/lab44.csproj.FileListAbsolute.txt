@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\lab44\lab44\obj\x64\Debug\lab44.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab44\lab44\obj\x64\Debug\lab44.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab44\lab44\bin\x64\Debug\lab44.exe.config
+C:\Users\User\source\repos\lab44\lab44\bin\x64\Debug\lab44.exe
+C:\Users\User\source\repos\lab44\lab44\bin\x64\Debug\lab44.pdb
+C:\Users\User\source\repos\lab44\lab44\obj\x64\Debug\lab44.exe
+C:\Users\User\source\repos\lab44\lab44\obj\x64\Debug\lab44.pdb
+C:\Users\User\source\repos\Labs\lab6\lab44\bin\x64\Debug\lab44.exe.config
+C:\Users\User\source\repos\Labs\lab6\lab44\bin\x64\Debug\lab44.exe
+C:\Users\User\source\repos\Labs\lab6\lab44\bin\x64\Debug\lab44.pdb
+C:\Users\User\source\repos\Labs\lab6\lab44\obj\x64\Debug\lab44.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Labs\lab6\lab44\obj\x64\Debug\lab44.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Labs\lab6\lab44\obj\x64\Debug\lab44.exe
+C:\Users\User\source\repos\Labs\lab6\lab44\obj\x64\Debug\lab44.pdb
